@@ -17,5 +17,5 @@ Our model has 2 hidden layers
 The no. of output layers is equal to the outputs we expect which are numbers betwee 0 and 9,
 so 10 output units, we have used softmax for the last layer
 
-Accuracy on the validation data was 98%
+Accuracy on the validation data was 98%/
 Accuracy on the test data was 96%
