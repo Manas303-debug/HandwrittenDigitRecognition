@@ -1,5 +1,5 @@
 # HandwrittenDigitRecognition
-I tried the Hello World! of machine lear ning, just for practice purposes,
+I tried the Hello World! of machine learning, just for practice purposes,
 
 Action plan:
 1. We loaded the train, test and validation Data
