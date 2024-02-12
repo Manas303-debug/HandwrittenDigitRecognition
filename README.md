@@ -9,13 +9,13 @@ Action plan:
 5. Split the dataset into batches for faster Learning
 6. Made it learn(Backpropagation)
 
-Other details:
-Each photo was 28by28 pixels we represented them as a 784x1 matrix,
-the no. of input units were therefore, 784, where each pixel represents a number between 0 and 1
-0-White and 1-Black
-Our model has 2 hidden layers
-The no. of output layers is equal to the outputs we expect which are numbers betwee 0 and 9,
-so 10 output units, we have used softmax for the last layer
+Other details:<br>
+Each photo was 28by28 pixels we represented them as a 784x1 matrix,<br>
+the no. of input units were therefore, 784, where each pixel represents a number between 0 and 1<br>
+0-White and 1-Black<br>
+Our model has 2 hidden layers<br>
+The no. of output layers is equal to the outputs we expect which are numbers betwee 0 and 9,<br>
+so 10 output units, we have used softmax for the last layer<br>
 
 Accuracy on the validation data was 98%<br>
 Accuracy on the test data was 96%
